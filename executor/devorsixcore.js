@@ -665,7 +665,7 @@ nativeFlowMessage: {
 buttons: [{
 name: "cta_url",
 buttonParamsJson: `{
-display_text: '► 𝐓.𝐝͢.𝐗 - 𝚵𝐗͢𝐏𝐋𝚫͢𝐍 ◄',
+display_text: '► ᴛᴜᴋᴀʏ ◄',
 url: "${global.url2}",
 merchant_url: "${global.url2}"
 }`
