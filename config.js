@@ -16,9 +16,9 @@ global.namabot = 'Tdx-Md' //ganti aj klo mau
 global.author = 'KhalidM_dz' //ganti aj klo mau
 global.packname = 'Tdx - Client' //ganti aj klo mau
 global.typeMenu = true // jika bernilai true, menu akan menjadi button namun tidak terlihat di ios
-global.url1 = 'https://www.instagram.com/khalid.__official' //gausah diganti
-global.url2 = 'https://github.com/khalid-official' //gausah diganti
-global.linkgc = 'https://shorturl.at/NdwIJ'
+global.url1 = '‎https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43' //gausah diganti
+global.url2 = '‎https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43' //gausah diganti
+global.linkgc = '‎https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43'
 global.delayjpm = 1250
 
 global.mess = { // Custom Sesuka Lu
